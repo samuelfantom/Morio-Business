@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+   
+    <title>Morio Business Empire</title> 
+     <nav>
+    <div class="menu">
+<h1 style="color:red;">Morio Business Empire</h1>
+     
+      </div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Feedback</a></li>
+      </ul>
+    </div>
+  </nav>
+   </head>
+
+ <body style="background-color:white;">
+<img src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=domenico-loia-hGV2TfOh0ns-unsplash.jpg" width="500" height="400">
+   <br>
+        <h3 style="color:red;">About Us</h3>
+        <br>
+        <p style="color:black;">We are a business oriented people with special interest in the Tech industry. Below are some of the business activities I engage in:</p> <br>
+    <ol>
+<li>Online Writing</li>
+<li>Web Design</li>
+<li>Research</li>
+<li>Database Creation</li>
+</ol>
+<br>
+   <p style="color:black;">Below are some of the websites that we created:</p>
+<p><br>
+  <a href="daladevelopment.com">Dala Development</a></p>
+
+<footer>
+  <p>
+  <a href="dutanholdings.co.ke">Dutan Limited</a></p>
+</footer>
+
+  
+    <div class="title">Morio Business Empire </div>
+    
+    <div class="btns">
+      <button>Learn More</button>
+      <button>Subscribe</button>
+    </div>
+
+</body>
+</html>
+ 
